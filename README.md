@@ -96,4 +96,4 @@ pip install torch torchvision matplotlib pillow numpy
 
 ## 📄 License
 
-This project is for educational purposes as part of an NVIDIA Deep Learning coursework module.
+Dhruv Raj Ghai
